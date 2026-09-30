@@ -29,4 +29,6 @@ List of supported material properties:
 
 <img width="1280" height="720" alt="car_render_2" src="https://github.com/user-attachments/assets/59f5adb9-e73d-44ba-afcb-2d8aede7775d" />
 
-  
+<img width="1280" height="720" alt="bunny" src="https://github.com/user-attachments/assets/3aa3c3b7-3fe7-4b54-82ac-2f3a43a8116b" />
+<img width="1280" height="720" alt="ball_render_0" src="https://github.com/user-attachments/assets/93407a94-ade8-415e-952e-71e1ae8d4771" />
+
