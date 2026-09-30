@@ -10,14 +10,14 @@ Currently the pathtracer is very simple, so it doesnt support different sized te
 
 All material properties are derived from the StandardMaterial3D properties.
 
-List of supported material properties:
-  Albedo (Albedo.rgb) - Textures are supported
-  Emmision (Emmision.rgb - color, Emmision.a - strength)
-  Roughness - Textures are supported
-  Metallic - Textures are supported
-  Specular
-  Transmittance (1.0 - Albedo.a)
-  IOR (Set to a fixed value, 1.33, can be changed in code)
+###List of supported material properties:
+  +Albedo (Albedo.rgb) - Textures are supported
+  +Emmision (Emmision.rgb - color, Emmision.a - strength)
+  +Roughness - Textures are supported
+  +Metallic - Textures are supported
+  +Specular
+  +Transmittance (1.0 - Albedo.a)
+  +IOR (Set to a fixed value, 1.33, can be changed in code)
 
   *Roughness, Metallic and Transmittance textures are placed into one texture for better memory packing.
 
